@@ -11,6 +11,6 @@ public class Multiples {
             i++;
         }
 
-        return numMults;
+        System.out.println(numMults);
     }
 }
